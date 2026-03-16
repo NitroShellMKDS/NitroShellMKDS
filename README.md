@@ -10,7 +10,7 @@ My primary interests lie in coding and Nintendo's DS-to-Wii U era.
 ---
 
 ### Tech & Tools
-- **Currently learning:** Nothing
+- **Currently learning:** Cloud Hosting, Advanced Simulation, and Game Design
 - **Development environments:** PyCharm, IntelliJ IDEA, Visual Studio Community
 - **Currently:** Studying in college
 
