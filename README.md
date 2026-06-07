@@ -1,4 +1,4 @@
-# Hi, I’m Landon Perkins - aka **LandonAndEmma**!
+# Hi, I’m **NitroShell**!
 
 ### About Me
 
@@ -25,6 +25,5 @@ My primary interests lie in coding and Nintendo's DS-to-Wii U era.
 
 ---
 ### GitHub Stats
-
-[![Landon's GitHub stats](https://github-readme-stats-sage-rho-12.vercel.app/api?username=LandonAndEmma&theme=ambient_gradient&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats-sage-rho-12.vercel.app/api/top-langs/?username=LandonAndEmma&theme=ambient_gradient&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![NitroShell's GitHub stats](https://github-readme-stats-seven-henna-33.vercel.app/api?username=NitroShellMKDS&theme=ambient_gradient&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-seven-henna-33.vercel.app/api/top-langs/?username=NitroShellMKDS&theme=ambient_gradient&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
