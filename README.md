@@ -2,8 +2,8 @@
 
 ### About Me
 
-I'm passionate about game creation, ROM hacking, and reverse engineering.
-My primary interests lie in coding and Nintendo's DS-to-Wii U era.
+I'm passionate about game creation, modding, and reverse engineering.
+My primary interests lie in coding, remixing music, and a fond nostalgia for Nintendo's DS-to-Wii U era.
 
 ### [**Visit my website**](https://nitroshellmkds.github.io/NitroSoft/)
 
@@ -11,7 +11,7 @@ My primary interests lie in coding and Nintendo's DS-to-Wii U era.
 
 ### Tech & Tools
 - **Currently learning:** Systems Software Analysis and Project Planning
-- **Development environments:** PyCharm, IntelliJ IDEA, Visual Studio Community, Visual Studio Code
+- **Development environments:** PyCharm, IntelliJ IDEA, Visual Studio Community, VS Code
 - **Currently:** Going to college
 
 ---
